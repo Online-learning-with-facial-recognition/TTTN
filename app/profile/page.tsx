@@ -1,7 +1,7 @@
 "use client";
-import ProfileCard from "./ProfileCard";
-import ProfileTabs from "./ProfileTabs";
-import ProfileStats from "./ProfileStats";
+import ProfileCard from "./components/ProfileCard";
+import ProfileTabs from "./components/ProfileTabs";
+import ProfileStats from "./components/ProfileStats";
 
 export default function StudentProfile() {
   return (

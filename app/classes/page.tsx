@@ -1,9 +1,9 @@
 "use client";
 import React, { useState } from "react";
 import { Plus, Search, BookOpen, History } from "lucide-react";
-import LiveClassesList from "./LiveClassesList";
-import ClassHistory from "./ClassHistory";
-import AddClassModal from "@/components/modals/AddClassModal";
+import LiveClassesList from "./components/LiveClassesList";
+import ClassHistory from "./components/ClassHistory";
+import AddClassModal from "@/components/modals/AddClass";
 export default function LiveClassesPage() {
   const [activeTab, setActiveTab] = useState("scheduled");
   const [isModalOpen, setIsModalOpen] = useState(false); // ✅ Thêm state cho modal

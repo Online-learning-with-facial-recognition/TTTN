@@ -12,7 +12,7 @@ const classData = [
     color: "bg-green-100 text-green-500",
   },
   {
-    title: "How to Make an Array and its Types in C++",
+    title: "JavaScript Basics",
     // batch: "Batch 3MY - JVY",
     time: "01:40 PM",
     date: "03 Jan 2023",
@@ -20,7 +20,7 @@ const classData = [
     color: "bg-green-100 text-green-500",
   },
   {
-    title: "How to Make an Array and its Types in C++",
+    title: "Python for Beginners",
     // batch: "Batch 3MY - JVY",
     time: "01:40 PM",
     date: "03 Jan 2023",
