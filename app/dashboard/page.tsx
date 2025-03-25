@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import { useUser } from "@clerk/nextjs"; // ✅ Import Clerk
-import Classes from "./components/Myclasses";
+import Classes from "./components/MyClasses";
 import Tasks from "./components/Tasks";
 import Information from "./components/Information";
 
